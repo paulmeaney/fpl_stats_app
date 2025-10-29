@@ -1,0 +1,18 @@
+{
+  "name": "fpl_api",
+  "version": "1.0.0",
+  "description": "My Interpretation of parsing the FPL API",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openai/agents": "^0.1.9",
+    "openai": "^6.7.0",
+    "zod": "^3.25.76"
+  }
+}
